@@ -1,4 +1,3 @@
-# desafio_sprint3
 
 SPRINT BACKLOG
 - Sprint: Versionamento e Metodologias Ágeis
@@ -12,4 +11,3 @@ SPRINT RETROSPECTIVE
 - O fluxo de versionamento com Git/GitHub foi bem executado.
 - As alterações nos arquivos foram concluídas dentro do prazo.
 - O que não funcionou bem:
-- Houve dificuldades iniciais na criação e fusão
